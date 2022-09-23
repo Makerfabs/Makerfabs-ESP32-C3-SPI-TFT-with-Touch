@@ -22,7 +22,7 @@ Note:
 # Makerfabs ESP32-C3 SPI TFT with Touch
 ## Intruduce
 
-Product Link ：[ESP32-S3 SPI TFT with Touch 3.5'' ILI9488](https://www.makerfabs.com/esp32-s3-spi-tft-with-touch-ili9488.html)
+Product Link ：[ESP32-C3 SPI TFT with Touch 3.5'' ILI9488](https://www.makerfabs.com/ep32-c3-risc-v-spi-tft-touch.html)
 
 Wiki Link : []()
 
