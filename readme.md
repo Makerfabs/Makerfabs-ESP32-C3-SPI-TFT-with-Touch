@@ -63,7 +63,7 @@ Being a number of the Makerfabs ESP Display family, this ESP32 C3 SPI 3.5 inch T
 - Install board : ESP32 .
 - Install library : LovyanGFX library. 
 - Use type-c use cable connect USB-TTL to PC.
-- Upload codes, select "ESP32-S3 DEV Module" and "UART0"
+- Upload codes, select "ESP32-C3 DEV Module"
 
 ![](md_pic/com.jpg)
 
