@@ -2,10 +2,11 @@
 
 ```c++
 /*
-Version:		V1.0
+Version:		V1.1
 Author:			Vincent
 Create Date:	2022/9/23
 Note:
+		2022/10/13	V1.1: Add example
 */
 ```
 ![](md_pic/main.jpg)
@@ -24,7 +25,7 @@ Note:
 
 Product Link ：[ESP32-C3 SPI TFT with Touch 3.5'' ILI9488](https://www.makerfabs.com/ep32-c3-risc-v-spi-tft-touch.html)
 
-Wiki Link : []()
+Wiki Link : [ESP32-C3_SPI_TFT_with_Touch](https://www.makerfabs.com/wiki/index.php?title=ESP32-C3_SPI_TFT_with_Touch(3.5%27%27))
 
 Makerfabs ESP32-C3 TFT Touch equips with ESP32-C3, which is a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, built around a 32-bit **RISC-V** chip processor with a four-stage pipeline that operates at up to 160 MHz, with 4MB Flash, 400KB SRAM. 
 
@@ -73,4 +74,15 @@ Being a number of the Makerfabs ESP Display family, this ESP32 C3 SPI 3.5 inch T
 
 A simple test procedure. Touch the black area in the middle of the screen, and the screen starts showing solid colors in turn. Finally, an SD card image is displayed.
 
+## Example
 
+### Mabee CO2 Display
+
+SGP30 and SHT31 sensor values are displayed on the screen. Use [Mabee CO2](https://www.makerfabs.com/mabee-tvoc-and-eco2-sgp30-sht31.html) sensor.
+
+Need libraries:
+
+- Adafruit_SGP30
+- Adafruit_SHT31
+
+![co2](md_pic/co2.jpg)
