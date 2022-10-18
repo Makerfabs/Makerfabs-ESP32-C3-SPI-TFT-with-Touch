@@ -2,11 +2,12 @@
 
 ```c++
 /*
-Version:		V1.1
+Version:		V1.2
 Author:			Vincent
 Create Date:	2022/9/23
 Note:
 		2022/10/13	V1.1: Add example
+		2022/10/18	V1.2: Add Line Chart demo
 */
 ```
 ![](md_pic/main.jpg)
@@ -86,3 +87,9 @@ Need libraries:
 - Adafruit_SHT31
 
 ![co2](md_pic/co2.jpg)
+
+
+
+### TVOC line chart
+
+Shows a line chart of TVOC
