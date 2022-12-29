@@ -2,12 +2,13 @@
 
 ```c++
 /*
-Version:		V1.2
+Version:		V1.3
 Author:			Vincent
 Create Date:	2022/9/23
 Note:
 		2022/10/13	V1.1: Add example
 		2022/10/18	V1.2: Add Line Chart demo
+		2022/12/29	V1.3: Change wiki link
 */
 ```
 ![](md_pic/main.jpg)
@@ -19,14 +20,14 @@ Note:
 
 [Makerfabs home page](https://www.makerfabs.com/)
 
-[Makerfabs Wiki](https://makerfabs.com/wiki/index.php?title=Main_Page)
+[Makerfabs Wiki](https://wiki.makerfabs.com/)
 
 # Makerfabs ESP32-C3 SPI TFT with Touch
 ## Intruduce
 
 Product Link ：[ESP32-C3 SPI TFT with Touch 3.5'' ILI9488](https://www.makerfabs.com/ep32-c3-risc-v-spi-tft-touch.html)
 
-Wiki Link : [ESP32-C3_SPI_TFT_with_Touch](https://www.makerfabs.com/wiki/index.php?title=ESP32-C3_SPI_TFT_with_Touch(3.5%27%27))
+Wiki Link : [ESP32-C3_SPI_TFT_with_Touch](https://wiki.makerfabs.com/ESP32_C3_SPI_3.5_TFT_with_Touch.html)
 
 Makerfabs ESP32-C3 TFT Touch equips with ESP32-C3, which is a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, built around a 32-bit **RISC-V** chip processor with a four-stage pipeline that operates at up to 160 MHz, with 4MB Flash, 400KB SRAM. 
 
